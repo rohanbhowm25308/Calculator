@@ -107,6 +107,7 @@ This project is open-source and available under the MIT License.
 ###  Developer
 
 Developed by Rohan Bhowmik
+Aspiring Data Scientist | AI/ML Enthusiast | Web Developer
 
 Developed with passion using HTML, CSS, and JavaScript to create a powerful and user-friendly calculator experience.
 
